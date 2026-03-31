@@ -1,4 +1,4 @@
-# 👩‍💻 Olá, eu sou a Larissa Sambrano!
+👩‍💻 Olá, eu sou a Larissa Sambrano!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 💻 Focada em desenvolvimento backend com C#
@@ -6,14 +6,12 @@
 
 
 
-## 🌐 Conecte-se comigo
+Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/larissa-sambrano-252152224)
-📧 Email: COLOQUE_SEU_EMAIL_AQUI
+📧 Email: larissasambrano@outlook.com
 
----
-
-## 🛠️ Tecnologias e Ferramentas
+ Tecnologias e Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
@@ -22,63 +20,47 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
----
+ 📌 Projetos em Destaque
 
-## 📌 Projetos em Destaque
-
-### 📅 Apontamento
+ Apontamento
 
 💡 Sistema de controle de horas desenvolvido em C#
 🔧 Foco em organização e produtividade
 📚 Aprendizados: lógica, estrutura de sistemas e manipulação de dados
 
----
-
-### 🌐 Vendedor-Web
+Vendedor-Web
 
 💡 Aplicação web para gestão de vendas
 🔧 Tecnologias: JavaScript, HTML, CSS
 📚 Aprendizados: desenvolvimento front-end e interação com usuário
 
----
-
-### 🚗 GaragemCarsDesktop
+ GaragemCarsDesktop
 
 💡 Sistema desktop para gerenciamento de veículos
 🔧 Tecnologias: C#
 📚 Aprendizados: criação de interfaces e aplicações desktop
 
----
-
-### 🔌 API_VENDEDOR
+ API_VENDEDOR
 
 💡 API REST para gerenciamento de vendedores
 🔧 Tecnologias: C#
 📚 Aprendizados: construção de APIs e backend estruturado
 
----
-
 ## 📈 GitHub Stats
 
 ![Larissa GitHub stats](https://github-readme-stats.vercel.app/api?username=Lari-sambrano\&show_icons=true\&theme=radical)
 
----
+ Em evolução
 
-## 🔥 Em evolução
-
-✨ Atualmente estou:
+Atualmente estou:
 
 * Aprimorando meus projetos com boas práticas
 * Estudando ASP.NET Core
 * Trabalhando com APIs REST
 * Evoluindo no desenvolvimento full stack
 
----
+💡 Objetivo
 
-## 💡 Objetivo
+Me tornar uma desenvolvedora full stack e construir soluções que façam a diferença.
 
-Me tornar uma desenvolvedora full stack e construir soluções que façam a diferença 🚀
-
----
-
-✨ Obrigada por visitar meu perfil!
+Obrigada por visitar meu perfil!
